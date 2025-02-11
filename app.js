@@ -1,0 +1,11 @@
+import './components/navMenu.js'
+import './components/productosComponent.js'
+import './components/venderComponent.js'
+import './components/invoiceComponent.js'
+import './components/productComponent.js'
+import './js/gestor.js'
+/*import './components/crearComponent.js';
+import './components/editarComponent.js';
+import './components/eliminarComponent.js';
+import './components/listarComponent.js';
+import './js/gestor.js';*/
